@@ -112,7 +112,9 @@ SOFTWARE.
 ## Author
 
 GitHub: https://github.com/coming-plots 
+
 Email: coming-plots-0o@icloud.com 
+
 Public contact: https://x.com/NikkiFoste20063
 
 ---
